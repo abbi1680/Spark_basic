@@ -1,0 +1,3 @@
+ANMFHiveQuery=>SELECT Count(*) from ABC where datae >="2017-01-01"
+ANSSHiveQuery=>SELECT Count(*) from EFF where datae >="2017-01-01"
+BDPHiveQuery=>SELECT Count(*) from ABC where datae >="2017-01-01"

@@ -1,0 +1,4 @@
+{ "LoanID": 100, "CustomerID":1,"AmountPaid":10,"LoanProcessedDate":"2017-01-01" }
+{ "LoanID": 101, "CustomerID":1,"AmountPaid":20,"LoanProcessedDate":"2017-01-02" }
+{ "LoanID": 102, "CustomerID":2,"AmountPaid":30,"LoanProcessedDate":"2017-01-01" }
+{ "LoanID": 103, "CustomerID":2,"AmountPaid":40,"LoanProcessedDate":"2017-01-02" }

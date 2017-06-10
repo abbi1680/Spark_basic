@@ -1,0 +1,3 @@
+GenderQuery=>Select * from Genders
+ProfQuery=>Select * from Professions
+OrdersQuery=>Select * from Orders
